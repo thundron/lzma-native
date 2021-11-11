@@ -3,11 +3,11 @@ lzma-native
 
 [![NPM Version](https://img.shields.io/npm/v/lzma-native.svg?style=flat)](https://npmjs.org/package/lzma-native)
 [![NPM Downloads](https://img.shields.io/npm/dm/lzma-native.svg?style=flat)](https://npmjs.org/package/lzma-native)
-[![Build Status](https://travis-ci.org/addaleax/lzma-native.svg?style=flat&branch=master)](https://travis-ci.org/addaleax/lzma-native?branch=master)
-[![Windows](https://img.shields.io/appveyor/ci/addaleax/lzma-native/master.svg?label=windows)](https://ci.appveyor.com/project/addaleax/lzma-native)
-[![Coverage Status](https://coveralls.io/repos/addaleax/lzma-native/badge.svg?branch=master)](https://coveralls.io/r/addaleax/lzma-native?branch=master)
-[![Dependency Status](https://david-dm.org/addaleax/lzma-native.svg?style=flat)](https://david-dm.org/addaleax/lzma-native)
-[![devDependency Status](https://david-dm.org/addaleax/lzma-native/dev-status.svg?style=flat)](https://david-dm.org/addaleax/lzma-native#info=devDependencies)
+[![Build Status](https://travis-ci.org/thundron/lzma-native.svg?style=flat&branch=master)](https://travis-ci.org/thundron/lzma-native?branch=master)
+[![Windows](https://img.shields.io/appveyor/ci/thundron/lzma-native/master.svg?label=windows)](https://ci.appveyor.com/project/thundron/lzma-native)
+[![Coverage Status](https://coveralls.io/repos/thundron/lzma-native/badge.svg?branch=master)](https://coveralls.io/r/thundron/lzma-native?branch=master)
+[![Dependency Status](https://david-dm.org/thundron/lzma-native.svg?style=flat)](https://david-dm.org/thundron/lzma-native)
+[![devDependency Status](https://david-dm.org/thundron/lzma-native/dev-status.svg?style=flat)](https://david-dm.org/thundron/lzma-native#info=devDependencies)
 
 Node.js interface to the native liblzma compression library (.xz file format, among others)
 
@@ -30,7 +30,7 @@ $ npm install --save lzma-native
 *Note*: As of version 1.0.0, this module provides pre-built binaries for multiple Node.js
 versions and all major OS using [node-pre-gyp](https://github.com/mapbox/node-pre-gyp),
 so for 99 % of users no compiler toolchain is necessary.
-Please [create an issue here](https://github.com/addaleax/lzma-native/issues/new)
+Please [create an issue here](https://github.com/thundron/lzma-native/issues/new)
 if you have any trouble installing this module.
 
 *Note*: `lzma-native@2.x` requires a Node version >= 4. If you want to support
